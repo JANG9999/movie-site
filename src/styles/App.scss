@@ -131,7 +131,6 @@
         }
         img.top {
           bottom: 0;
-          width: 5vw;
         }
         .overlay {
           position: absolute;
@@ -143,7 +142,7 @@
         position: absolute;
         &.thumb {
           object-fit: cover;
-          width: 100%;
+          width: 15.4vw;
           height: 100%;
           border-radius: 1vw;
           right: 0;
